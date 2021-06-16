@@ -1,8 +1,8 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyCsBVzASCm3Lc7IFVjSJnStDaWt2uusTL8",
-  authDomain: "pimple-navnit.firebaseapp.com",
-  projectId: "pimple-navnit",
-  storageBucket: "pimple-navnit.appspot.com",
-  messagingSenderId: "817564819755",
-  appId: "1:817564819755:web:a302fdf149b04c3d10e56e"
+  apiKey: "AIzaSyC2LLh2mLMHBi2WemKJGKh_pUwO4jFP6S0",
+  authDomain: "movie-flex-28.firebaseapp.com",
+  projectId: "movie-flex-28",
+  storageBucket: "movie-flex-28.appspot.com",
+  messagingSenderId: "504660278098",
+  appId: "1:504660278098:web:f5c3044728db2ac5e9988b"
 };
