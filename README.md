@@ -13,9 +13,9 @@ Features Of the application:
 - Shows the list of Trending Movies
 
 Snapshots of the project 👇
-![Alt Text](/.1.png?raw=true "Title")
-![Alt Text](/.2.png?raw=true "Title")
-![Alt Text](/.3.png?raw=true "Title")
+![Alt Text](/1.png?raw=true "Title")
+![Alt Text](/2.png?raw=true "Title")
+![Alt Text](/3.png?raw=true "Title")
 
 ## Learn More
 
