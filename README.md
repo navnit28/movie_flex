@@ -1,6 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
-#This is Reactjs project which displays movies of different genre like horror, action, comedy and romance 
-###I have used ReactJs ,Tmdb api and Firebase in this project 
+# This is Reactjs project which displays movies of different genre like horror, action, comedy and romance 
+I have used ReactJs ,Tmdb api and Firebase in this project 
 To get started and run the app:
 
 - Clone the project.
